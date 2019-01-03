@@ -1,6 +1,6 @@
 # my-first-nuxt-app
 
-> Nuxt.js project
+> A sample project with reference to [nuxt-beginners-guide](https://github.com/potato4d/nuxt-beginners-guide)
 
 ## Create Project
 
